@@ -4,3 +4,7 @@ In [Project 1](https://rpubs.com/Seymour22/biofunctional_polymer_prevents_retina
 
 
 In [Project 2](https://rpubs.com/Seymour22/1140801) I use Plink to perform a genome-wide association study to pinpoint the Single Nucleotide Polymorphisms (SNPs) that contribute to hippocampal atrophy in individuals diagnosed with Alzheimer's disease. The investigation utilizes genetic data extracted from the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset.
+
+
+Data used in preparation of this article were obtained from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database (adni.loni.usc.edu). As such, the investigators within the ADNI contributed to the design and implementation of ADNI and/or provided data but did not participate in analysis or writing of this report. A complete listing of ADNI investigators can be found at: http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf
+
